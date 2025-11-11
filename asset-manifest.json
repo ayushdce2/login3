@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/hospital_mgmt/static/css/main.efe7c69d.css",
-    "main.js": "/hospital_mgmt/static/js/main.3ffa4a1c.js",
-    "static/js/453.728704d8.chunk.js": "/hospital_mgmt/static/js/453.728704d8.chunk.js",
-    "static/media/Poppins-Medium.ttf": "/hospital_mgmt/static/media/Poppins-Medium.673ed42382ab264e0bf5.ttf",
-    "index.html": "/hospital_mgmt/index.html",
-    "static/media/eye_close.svg": "/hospital_mgmt/static/media/eye_close.db3f9d7aa440e3a8645af868c68e0f90.svg",
-    "static/media/password.svg": "/hospital_mgmt/static/media/password.796997bde6ea7c220d684f1d4e6528e7.svg",
-    "static/media/eye_open.svg": "/hospital_mgmt/static/media/eye_open.6b8499915e43dc5e9c7bc6c2fe233fc3.svg",
-    "static/media/phone.svg": "/hospital_mgmt/static/media/phone.d713955e95021449ff5ef81b5379cb5b.svg",
-    "static/media/user.svg": "/hospital_mgmt/static/media/user.0de264b49c175e1e7363802082df599a.svg",
-    "static/media/email.svg": "/hospital_mgmt/static/media/email.fc27aa3081826958d54528593a2b0a22.svg",
-    "main.efe7c69d.css.map": "/hospital_mgmt/static/css/main.efe7c69d.css.map",
-    "main.3ffa4a1c.js.map": "/hospital_mgmt/static/js/main.3ffa4a1c.js.map",
-    "453.728704d8.chunk.js.map": "/hospital_mgmt/static/js/453.728704d8.chunk.js.map"
+    "main.css": "/login3/static/css/main.b35397d7.css",
+    "main.js": "/login3/static/js/main.6346b4a6.js",
+    "static/js/453.728704d8.chunk.js": "/login3/static/js/453.728704d8.chunk.js",
+    "static/media/Poppins-Medium.ttf": "/login3/static/media/Poppins-Medium.673ed42382ab264e0bf5.ttf",
+    "index.html": "/login3/index.html",
+    "static/media/eye_close.svg": "/login3/static/media/eye_close.db3f9d7aa440e3a8645af868c68e0f90.svg",
+    "static/media/password.svg": "/login3/static/media/password.796997bde6ea7c220d684f1d4e6528e7.svg",
+    "static/media/eye_open.svg": "/login3/static/media/eye_open.6b8499915e43dc5e9c7bc6c2fe233fc3.svg",
+    "static/media/phone.svg": "/login3/static/media/phone.d713955e95021449ff5ef81b5379cb5b.svg",
+    "static/media/user.svg": "/login3/static/media/user.0de264b49c175e1e7363802082df599a.svg",
+    "static/media/email.svg": "/login3/static/media/email.fc27aa3081826958d54528593a2b0a22.svg",
+    "main.b35397d7.css.map": "/login3/static/css/main.b35397d7.css.map",
+    "main.6346b4a6.js.map": "/login3/static/js/main.6346b4a6.js.map",
+    "453.728704d8.chunk.js.map": "/login3/static/js/453.728704d8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.efe7c69d.css",
-    "static/js/main.3ffa4a1c.js"
+    "static/css/main.b35397d7.css",
+    "static/js/main.6346b4a6.js"
   ]
 }
