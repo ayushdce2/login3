@@ -19,7 +19,7 @@ const router = createBrowserRouter([
     element: <Login/>,
   },
   {
-    path: "/hospital_mgmt",
+    path: "/login3",
     element: <Login/>,
   },
   {

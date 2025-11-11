@@ -1,7 +1,7 @@
 {
   "name": "hospital_mgmt",
   "version": "0.1.0",
-  "homepage": "https://ayushdce2.github.io/hospital_mgmt/",
+  "homepage": "https://ayushdce2.github.io/login3/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
